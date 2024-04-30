@@ -1,0 +1,78 @@
+{
+  "nike": {
+    "dunk": {
+      "high": {
+        "example": "High Blue"
+      },
+      "low": {
+        "example": "Low Grey"
+      },
+      "sb": {
+        "example": "SB Black"
+      }
+    },
+    "air max": {
+      "95": {
+        "example": "95 Neon"
+      },
+      "97": {
+        "example": "97 Silver"
+      },
+      "90": {
+        "example": "90 Infrared"
+      }
+    },
+    "air force": {
+      "low": {
+        "example": "Low White"
+      },
+      "mid": {
+        "example": "Mid Black"
+      }
+    }
+  },
+  "adidas": {
+    "campus": {
+      "example": "Campus Green"
+    },
+    "samba": {
+      "example": "Samba Classic Black"
+    },
+    "gazzelle": {
+      "example": "Gazzelle Blue"
+    }
+  },
+  "air jordan": {
+    "1": {
+      "example": "1 Bred"
+    },
+    "4": {
+      "example": "4 White Cement"
+    },
+    "6": {
+      "example": "6 Infrared"
+    }
+  },
+  "new balance": {
+    "550": {
+      "example": "550 White"
+    },
+    "2002": {
+      "example": "2002 Grey"
+    },
+    "1906": {
+      "example": "1906 Black"
+    }
+  },
+  "yeezy": {
+    "350": {
+      "example": "350 V2 Cream"
+    },
+    "700": {
+      "example": "700 Wave Runner"
+    },
+    "slide": {
+      "example": "Slide Bone"
+    }
+  }
+}
