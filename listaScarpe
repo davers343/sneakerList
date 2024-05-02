@@ -1,78 +1,211 @@
 {
-  "nike": {
-    "dunk": {
-      "high": {
-        "example": "High Blue"
-      },
-      "low": {
-        "example": "Low Grey"
-      },
-      "sb": {
-        "example": "SB Black"
-      }
+  "brands": [
+    {
+      "brand": "nike",
+      "models": [
+        {
+          "model": "dunk",
+          "types": [
+            {
+              "type": "high",
+              "products": [
+                {"name": "nike dunk high panda", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk high marrone barocco", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk high nero lino", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "low",
+              "products": [
+                {"name": "nike dunk low giada chiaro", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk low veneer", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk low grigio nebbia", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "sb",
+              "products": [
+                {"name": "nike dunk SB supreme Rammellzee", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk SB Lobster", "price": "", "img": "", "size": ""},
+                {"name": "nike dunk SB marrone cashmere", "price": "", "img": "", "size": ""}
+              ]
+            }
+          ]
+        },
+        {
+          "model": "air max",
+          "types": [
+            {
+              "type": "95",
+              "products": [
+                {"name": "air max 95 anatomy", "price": "", "img": "", "size": ""},
+                {"name": "air max 95 corteiz gutta green", "price": "", "img": "", "size": ""},
+                {"name": "air max 95 Premium Atlanta", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "97",
+              "products": [
+                {"name": "air max 97 sean wotherspoon", "price": "", "img": "", "size": ""},
+                {"name": "air max 97 silver bullet", "price": "", "img": "", "size": ""},
+                {"name": "air max 97 Off-White", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "90",
+              "products": [
+                {"name": "air max 90 patta waves", "price": "", "img": "", "size": ""},
+                {"name": "air max 90 recraft rose", "price": "", "img": "", "size": ""},
+                {"name": "air max 90 blu industriale", "price": "", "img": "", "size": ""}
+              ]
+            }
+          ]
+        },
+        {
+          "model": "air force",
+          "types": [
+            {
+              "type": "low",
+              "products": [
+                {"name": "air force 1 low white", "price": "", "img": "", "size": ""},
+                {"name": "air force 1 low black", "price": "", "img": "", "size": ""},
+                {"name": "air force 1 low x Supreme", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "mid",
+              "products": [
+                {"name": "air force 1 mid white", "price": "", "img": "", "size": ""},
+                {"name": "air force 1 mid black", "price": "", "img": "", "size": ""}
+              ]
+            }
+          ]
+        }
+      ]
     },
-    "air max": {
-      "95": {
-        "example": "95 Neon"
-      },
-      "97": {
-        "example": "97 Silver"
-      },
-      "90": {
-        "example": "90 Infrared"
-      }
+    {
+      "brand": "adidas",
+      "models": [
+        {
+          "model": "campus",
+          "products": [
+            {"name": "Adidas campus white and grey", "price": "", "img": "", "size": ""},
+            {"name": "Adidas campus light bad bunny", "price": "", "img": "", "size": ""},
+            {"name": "Adidas campus leopardo", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "samba",
+          "products": [
+            {"name": "Adidas samba black and white", "price": "", "img": "", "size": ""},
+            {"name": "Adidas samba wales bonner fox brown", "price": "", "img": "", "size": ""},
+            {"name": "Adidas campus inter miami Messi", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "gazzelle",
+          "products": [
+            {"name": "Adidas gazelle rosa vivace", "price": "", "img": "", "size": ""},
+            {"name": "Adidas gazelle verde collegiale", "price": "", "img": "", "size": ""},
+            {"name": "Adidas gazelle blue bird brown", "price": "", "img": "", "size": ""}
+          ]
+        }
+      ]
     },
-    "air force": {
-      "low": {
-        "example": "Low White"
-      },
-      "mid": {
-        "example": "Mid Black"
-      }
+    {
+      "brand": "air jordan",
+      "models": [
+        {
+          "model": "1",
+          "types": [
+            {
+              "type": "high",
+              "products": [
+                {"name": "Air Jordan 1 high GO UNC", "price": "", "img": "", "size": ""},
+                {"name": "Air Jordan 1 high Spiderman", "price": "", "img": "", "size": ""}
+              ]
+            },
+            {
+              "type": "low",
+              "products": [
+                {"name": "Air Jordan 1 low Travis Scott Olive", "price": "", "img": "", "size": ""}
+              ]
+            }
+          ]
+        },
+        {
+          "model": "4",
+          "products": [
+            {"name": "Air Jordan 4 frozen moments", "price": "", "img": "", "size": ""},
+            {"name": "Air Jordan 4 canyon purple", "price": "", "img": "", "size": ""},
+            {"name": "Air Jordan 4 University Blue", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "6",
+          "products": [
+            {"name": "Air Jordan 6 retro Travis Scott", "price": "", "img": "", "size": ""},
+            {"name": "Air Jordan 6 Burgundy", "price": "", "img": "", "size": ""},
+            {"name": "Air Jordan 6 Travis Scott British Khaki", "price": "", "img": "", "size": ""}
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "new balance",
+      "models": [
+        {
+          "model": "550",
+          "products": [
+            {"name": "new balance 550 white grey", "price": "", "img": "", "size": ""},
+            {"name": "new balance 550 cream black", "price": "", "img": "", "size": ""},
+            {"name": "new balance 550 white red", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "2002",
+          "products": [
+            {"name": "new balance 2002R Sea salt", "price": "", "img": "", "size": ""},
+            {"name": "new balance 2002R pink", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "1906",
+          "products": [
+            {"name": "new balance 1906 Metallic Blue", "price": "", "img": "", "size": ""},
+            {"name": "new balance 1906 Phantom", "price": "", "img": "", "size": ""}
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "yeezy",
+      "models": [
+        {
+          "model": "350",
+          "products": [
+            {"name": "yeezy 350 zebra", "price": "", "img": "", "size": ""},
+            {"name": "yeezy 350 pirate black", "price": "", "img": "", "size": ""},
+            {"name": "yeezy 350 granite", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "700",
+          "products": [
+            {"name": "yeezy 700 Geode", "price": "", "img": "", "size": ""},
+            {"name": "yeezy 700 copper fade", "price": "", "img": "", "size": ""},
+            {"name": "yeezy 700 wave runner", "price": "", "img": "", "size": ""}
+          ]
+        },
+        {
+          "model": "slide",
+          "products": [
+            {"name": "yeezy slide azure", "price": "", "img": "", "size": ""},
+            {"name": "yeezy slide pure", "price": "", "img": "", "size": ""},
+            {"name": "yeezy slide slate grey", "price": "", "img": "", "size": ""}
+          ]
+        }
+      ]
     }
-  },
-  "adidas": {
-    "campus": {
-      "example": "Campus Green"
-    },
-    "samba": {
-      "example": "Samba Classic Black"
-    },
-    "gazzelle": {
-      "example": "Gazzelle Blue"
-    }
-  },
-  "air jordan": {
-    "1": {
-      "example": "1 Bred"
-    },
-    "4": {
-      "example": "4 White Cement"
-    },
-    "6": {
-      "example": "6 Infrared"
-    }
-  },
-  "new balance": {
-    "550": {
-      "example": "550 White"
-    },
-    "2002": {
-      "example": "2002 Grey"
-    },
-    "1906": {
-      "example": "1906 Black"
-    }
-  },
-  "yeezy": {
-    "350": {
-      "example": "350 V2 Cream"
-    },
-    "700": {
-      "example": "700 Wave Runner"
-    },
-    "slide": {
-      "example": "Slide Bone"
-    }
-  }
+  ]
 }
