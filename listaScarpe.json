@@ -9,17 +9,17 @@
             {
               "type": "high",
               "products": [
-                {"name": "nike dunk high panda", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk high marrone barocco", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk high nero lino", "price": "", "img": "", "size": ""}
+                {"name": "nike dunk high panda", "price": "95", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
+                {"name": "nike dunk high marrone barocco", "price": "107.99", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "41"},
+                {"name": "nike dunk high nero lino", "price": "102", "img": "https://lh6.googleusercontent.com/proxy/EuuBlrzRsTNvzCoYb9_7xpUfKk3sSA-1yVNk87rE8hT1DhEFUupr4R-xN8n25Y-_XyolqmgkzPub1MUmSYU7TDwKY5TYHhYUjEEKHWhwXuepm-UJNNOQ_gK6Wv4F36Bq-BpN-LzZ-i8h_ucFkjuevAXFriTg", "size": "40.5"}
               ]
             },
             {
               "type": "low",
               "products": [
-                {"name": "nike dunk low giada chiaro", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk low veneer", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk low grigio nebbia", "price": "", "img": "", "size": ""}
+               {"name": "nike dunk low panda", "price": "95$", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
+                {"name": "nike dunk low veneer", "price": "130", "img": "https://img.hypeboost.com/products/nike-dunk-low-veneer-2020/w900/img02.jpg", "size": "44"},
+                {"name": "nike dunk low grigio nebbia", "price": "120", "img": "https://lh5.googleusercontent.com/proxy/y9Tne-IPrmxHwg7a_bbD1Gx3M-UZ44ja3zkFGGa-iOCgHgcPFLeAM7XetoBwu3ZWPgkoRc8YQMMtokm1PiQvVHB9RwbRoJIFpTGbL4yWh10IrxKza22JdgIgyz93fHk", "size": "40"}
               ]
             },
             {
