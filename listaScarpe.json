@@ -9,8 +9,8 @@
             {
               "type": "high",
               "products": [
-                {"name": "nike dunk high panda", "price": "95", "img": "https://m.media-amazon.com/images/I/51F8HlwvhTL._AC_UY900_.jpg", "size": "43"},
-                {"name": "nike dunk high marrone barocco", "price": "107", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "41"},
+                {"name": "nike dunk high panda", "price": "95", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "43"},
+                {"name": "nike dunk high marrone barocco", "price": "107", "img": "https://i.ebayimg.com/images/g/2NkAAOSwZJhgHJFA/s-l1200.jpg", "size": "41"},
                 {"name": "nike dunk high nero lino", "price": "102", "img": "https://lh6.googleusercontent.com/proxy/EuuBlrzRsTNvzCoYb9_7xpUfKk3sSA-1yVNk87rE8hT1DhEFUupr4R-xN8n25Y-_XyolqmgkzPub1MUmSYU7TDwKY5TYHhYUjEEKHWhwXuepm-UJNNOQ_gK6Wv4F36Bq-BpN-LzZ-i8h_ucFkjuevAXFriTg", "size": "40.5"}
               ]
             },
