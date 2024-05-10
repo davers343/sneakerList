@@ -9,15 +9,15 @@
             {
               "type": "high",
               "products": [
-                {"name": "nike dunk high panda", "price": "95", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
-                {"name": "nike dunk high marrone barocco", "price": "107.99", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "41"},
+                {"name": "nike dunk high panda", "price": "95", "img": "https://m.media-amazon.com/images/I/51F8HlwvhTL._AC_UY900_.jpg", "size": "43"},
+                {"name": "nike dunk high marrone barocco", "price": "107", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "41"},
                 {"name": "nike dunk high nero lino", "price": "102", "img": "https://lh6.googleusercontent.com/proxy/EuuBlrzRsTNvzCoYb9_7xpUfKk3sSA-1yVNk87rE8hT1DhEFUupr4R-xN8n25Y-_XyolqmgkzPub1MUmSYU7TDwKY5TYHhYUjEEKHWhwXuepm-UJNNOQ_gK6Wv4F36Bq-BpN-LzZ-i8h_ucFkjuevAXFriTg", "size": "40.5"}
               ]
             },
             {
               "type": "low",
               "products": [
-               {"name": "nike dunk low panda", "price": "95$", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
+               {"name": "nike dunk low panda", "price": "95", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
                 {"name": "nike dunk low veneer", "price": "130", "img": "https://img.hypeboost.com/products/nike-dunk-low-veneer-2020/w900/img02.jpg", "size": "44"},
                 {"name": "nike dunk low grigio nebbia", "price": "120", "img": "https://lh5.googleusercontent.com/proxy/y9Tne-IPrmxHwg7a_bbD1Gx3M-UZ44ja3zkFGGa-iOCgHgcPFLeAM7XetoBwu3ZWPgkoRc8YQMMtokm1PiQvVHB9RwbRoJIFpTGbL4yWh10IrxKza22JdgIgyz93fHk", "size": "40"}
               ]
@@ -25,9 +25,9 @@
             {
               "type": "sb",
               "products": [
-                {"name": "nike dunk SB supreme Rammellzee", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk SB Lobster", "price": "", "img": "", "size": ""},
-                {"name": "nike dunk SB marrone cashmere", "price": "", "img": "", "size": ""}
+                {"name": "nike dunk SB supreme Rammellzee", "price": "350", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/8e301c31-a138-4947-88bc-d3a82db60e07..jpg", "size": "43"},
+                {"name": "nike dunk SB Lobster", "price": "450", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/14fa4c47-0e06-42e1-8c43-d6ef2a1af2d8..jpg", "size": "45"},
+                {"name": "nike dunk SB Paisley Burgundy", "price": "290", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/42685ddb-1892-4516-a497-83a263b9d271..jpg", "size": "44"}
               ]
             }
           ]
@@ -38,25 +38,25 @@
             {
               "type": "95",
               "products": [
-                {"name": "air max 95 anatomy", "price": "", "img": "", "size": ""},
-                {"name": "air max 95 corteiz gutta green", "price": "", "img": "", "size": ""},
-                {"name": "air max 95 Premium Atlanta", "price": "", "img": "", "size": ""}
+                {"name": "air max 95 anatomy", "price": "245", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/21d55664-3143-4877-a364-eff7317ee3c4..jpg", "size": "44"},
+                {"name": "air max 95 corteiz gutta green", "price": "690", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/ead4c088-3dac-4153-9938-e9780ff6fb07..jpg", "size": "44"},
+                {"name": "air max 95 Premium Atlanta", "price": "333", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/bd77f1b0-4a06-4d52-91cd-ea788290e613..jpg", "size": "45"}
               ]
             },
             {
               "type": "97",
               "products": [
-                {"name": "air max 97 sean wotherspoon", "price": "", "img": "", "size": ""},
-                {"name": "air max 97 silver bullet", "price": "", "img": "", "size": ""},
-                {"name": "air max 97 Off-White", "price": "", "img": "", "size": ""}
+                {"name": "air max 97 sean wotherspoon", "price": "1100", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/7e0a7861-49b7-49b4-ad1a-2fce595707d7..jpg", "size": "43"},
+                {"name": "air max 97 silver bullet", "price": "158", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://s3-eu-west-1.amazonaws.com/klekt-products/884421-001.jpg", "size": "42"},
+                {"name": "air max 97 Off-White", "price": "2340", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://cdn.filestackcontent.com/M8KlUQUTM257CToMOXE6", "size": "43"}
               ]
             },
             {
               "type": "90",
               "products": [
-                {"name": "air max 90 patta waves", "price": "", "img": "", "size": ""},
-                {"name": "air max 90 recraft rose", "price": "", "img": "", "size": ""},
-                {"name": "air max 90 blu industriale", "price": "", "img": "", "size": ""}
+                {"name": "air max 90 patta waves", "price": "325", "img": "https://images.stockx.com/images/Nike-Air-Max-1-Patta-Waves-White-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1661942120", "size": "44"},
+                {"name": "air max 90 recraft rose", "price": "156", "img": "https://images.stockx.com/images/Nike-Air-Max-90-Recraft-Rose-W-Product.png?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1686755783", "size": "45"},
+                {"name": "air max 90 blu industriale", "price": "110", "img": "https://images.stockx.com/360/Nike-Air-Max-90-Black-Industrial-Blue/Images/Nike-Air-Max-90-Black-Industrial-Blue/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1697811910&h=320&q=60", "size": "42"}
               ]
             }
           ]
@@ -67,16 +67,16 @@
             {
               "type": "low",
               "products": [
-                {"name": "air force 1 low white", "price": "", "img": "", "size": ""},
-                {"name": "air force 1 low black", "price": "", "img": "", "size": ""},
-                {"name": "air force 1 low x Supreme", "price": "", "img": "", "size": ""}
+                {"name": "air force 1 low white", "price": "130", "img": "https://images.stockx.com/images/Nike-Air-Force-1-Low-White-07_V2-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1631122839", "size": "44"},
+                {"name": "air force 1 low black", "price": "130", "img": "https://i8.amplience.net/i/jpl/jd_014125_a?qlt=92&w=600&h=425&v=1&fmt=auto", "size": "43"},
+                {"name": "air force 1 low x Supreme", "price": "650$", "img": "https://mistereseller.com/cdn/shop/products/nike-air-force-1-low-supreme-flax-1-1000.png?v=1646386651", "size": "44"}
               ]
             },
             {
               "type": "mid",
               "products": [
-                {"name": "air force 1 mid white", "price": "", "img": "", "size": ""},
-                {"name": "air force 1 mid black", "price": "", "img": "", "size": ""}
+                {"name": "air force 1 mid white", "price": "220", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/236a37be-e902-4d22-abcc-237f92493c17..jpg", "size": "44"},
+                {"name": "air force 1 mid black", "price": "120", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/8d38f925-7a97-4842-a3ed-21bb52d5ceef..jpg", "size": "43"}
               ]
             }
           ]
@@ -89,25 +89,25 @@
         {
           "model": "campus",
           "products": [
-            {"name": "Adidas campus white and grey", "price": "", "img": "", "size": ""},
-            {"name": "Adidas campus light bad bunny", "price": "", "img": "", "size": ""},
-            {"name": "Adidas campus leopardo", "price": "", "img": "", "size": ""}
+            {"name": "Adidas campus white and grey", "price": "170", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/ba4adc45-9c6e-4970-82ce-df0d734a0605..png", "size": "44"},
+            {"name": "Adidas campus light bad bunny", "price": "250", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/9402140f-9e70-4629-ae0f-65b8095b66cf..png", "size": "45"},
+            {"name": "Adidas campus leopardo", "price": "170", "img": "https://static.flexdog.it/flexdog-a/products/images/ed14c24e-5750-4fdf-ba1b-c60884091397.png", "size": "43"}
           ]
         },
         {
           "model": "samba",
           "products": [
-            {"name": "Adidas samba black and white", "price": "", "img": "", "size": ""},
-            {"name": "Adidas samba wales bonner fox brown", "price": "", "img": "", "size": ""},
-            {"name": "Adidas campus inter miami Messi", "price": "", "img": "", "size": ""}
+            {"name": "Adidas samba black and white", "price": "180", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/01c0904e-31b8-438c-8dfc-e5b7c1461cb6..png", "size": "43"},
+            {"name": "Adidas samba wales bonner fox brown", "price": "350", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/e06854e3-0f40-4d84-912a-bc3ab5eddbcd..png", "size": "45"},
+            {"name": "samba Adidas x Wales Bonner Leopard i", "price": "600", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/7a1ea02c-158d-4a85-b098-ad668ef14223..jpg", "size": "45"}
           ]
         },
         {
           "model": "gazzelle",
           "products": [
-            {"name": "Adidas gazelle rosa vivace", "price": "", "img": "", "size": ""},
-            {"name": "Adidas gazelle verde collegiale", "price": "", "img": "", "size": ""},
-            {"name": "Adidas gazelle blue bird brown", "price": "", "img": "", "size": ""}
+            {"name": "Adidas gazelle rosa vivace", "price": "180", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/c495eee1-1771-44e7-a768-acc6f11d7506..jpg", "size": "43"},
+            {"name": "Adidas gazelle verde collegiale", "price": "220", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/312a49a5-5412-4d15-9d01-af451a23692d..jpg", "size": "43"},
+            {"name": "Adidas gazelle blue bird brown", "price": "140", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/ad7190a4-37dc-4010-a652-83ac0b161ef3..jpg", "size": "45"}
           ]
         }
       ]
@@ -121,14 +121,14 @@
             {
               "type": "high",
               "products": [
-                {"name": "Air Jordan 1 high GO UNC", "price": "", "img": "", "size": ""},
-                {"name": "Air Jordan 1 high Spiderman", "price": "", "img": "", "size": ""}
+                {"name": "Air Jordan 1 high GO UNC", "price": "320", "img": "https://images.stockx.com/images/Air-Jordan-1-High-OG-UNC-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1688675280", "size": "45"},
+                {"name": "Air Jordan 1 high Spiderman", "price": "550", "img": "https://images.stockx.com/360/Air-Jordan-1-High-OG-Spider-Man-Across-the-Spider-Verse/Images/Air-Jordan-1-High-OG-Spider-Man-Across-the-Spider-Verse/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1683569460&h=320&q=60", "size": "45"}
               ]
             },
             {
               "type": "low",
               "products": [
-                {"name": "Air Jordan 1 low Travis Scott Olive", "price": "", "img": "", "size": ""}
+                {"name": "Air Jordan 1 low Travis Scott Olive", "price": "680", "img": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Olive-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1679667531", "size": "45"}
               ]
             }
           ]
@@ -136,17 +136,17 @@
         {
           "model": "4",
           "products": [
-            {"name": "Air Jordan 4 frozen moments", "price": "", "img": "", "size": ""},
-            {"name": "Air Jordan 4 canyon purple", "price": "", "img": "", "size": ""},
-            {"name": "Air Jordan 4 University Blue", "price": "", "img": "", "size": ""}
+            {"name": "Air Jordan 4 frozen moments", "price": "540", "img": "https://images.stockx.com/images/Air-Jordan-4-Retro-Frozen-Moments-Womens-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1692652190", "size": "45"},
+            {"name": "Air Jordan 4 canyon purple", "price": "420", "img": "https://images.stockx.com/360/Air-Jordan-4-Retro-Canyon-Purple-W/Images/Air-Jordan-4-Retro-Canyon-Purple-W/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1660288617&h=320&q=60", "size": "45"},
+            {"name": "Air Jordan 4 University Blue", "price": "390", "img": "https://images.stockx.com/360/Air-Jordan-4-Retro-University-Blue/Images/Air-Jordan-4-Retro-University-Blue/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1635344971&h=320&q=60", "size": "45"}
           ]
         },
         {
           "model": "6",
           "products": [
-            {"name": "Air Jordan 6 retro Travis Scott", "price": "", "img": "", "size": ""},
-            {"name": "Air Jordan 6 Burgundy", "price": "", "img": "", "size": ""},
-            {"name": "Air Jordan 6 Travis Scott British Khaki", "price": "", "img": "", "size": ""}
+            {"name": "Air Jordan 6 retro Travis Scott", "price": "720", "img": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1611191963", "size": "45"},
+            {"name": "Air Jordan 6 Burgundy", "price": "290", "img": "https://www.solesupremacy.com/cdn/shop/products/29509_01_jpg_grande.jpg?v=1642792804", "size": "45"},
+            {"name": "Air Jordan 6 Travis Scott British Khaki", "price": "560", "img": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-British-Khaki-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1620406101", "size": "45"}
           ]
         }
       ]
@@ -157,23 +157,23 @@
         {
           "model": "550",
           "products": [
-            {"name": "new balance 550 white grey", "price": "", "img": "", "size": ""},
-            {"name": "new balance 550 cream black", "price": "", "img": "", "size": ""},
-            {"name": "new balance 550 white red", "price": "", "img": "", "size": ""}
+            {"name": "new balance 550 white grey", "price": "220", "img": "https://images.stockx.com/images/New-Balance-550-White-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1613670436", "size": "45"},
+            {"name": "new balance 550 cream black", "price": "230", "img": "https://images.stockx.com/images/New-Balance-550-Cream-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1651781130", "size": "45"},
+            {"name": "new balance 550 white red", "price": "190", "img": "https://images.stockx.com/images/New-Balance-550-White-Red-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1630617711", "size": "45"}
           ]
         },
         {
           "model": "2002",
           "products": [
-            {"name": "new balance 2002R Sea salt", "price": "", "img": "", "size": ""},
-            {"name": "new balance 2002R pink", "price": "", "img": "", "size": ""}
+            {"name": "new balance 2002R Sea salt", "price": "340", "img": "https://images.stockx.com/images/New-Balance-M2002-Protection-Pack-Sea-Sault-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1649690006", "size": "45"},
+            {"name": "new balance 2002R pink", "price": "490", "img": "https://images.stockx.com/images/New-Balance-2002R-Protection-Pack-Pink-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1659420943", "size": "45"}
           ]
         },
         {
           "model": "1906",
           "products": [
-            {"name": "new balance 1906 Metallic Blue", "price": "", "img": "", "size": ""},
-            {"name": "new balance 1906 Phantom", "price": "", "img": "", "size": ""}
+            {"name": "new balance 1906 Metallic Blue", "price": "190", "img": "https://storage.googleapis.com/hypeclothinga-media/__sized__/products/New_Balance_1906R_Silver_Metallic_Blue1906RCD_Hype_Clothinga_Limited_Edition.004-thumbnail-1200x630-70.jpeg", "size": "45"},
+            {"name": "new balance 1906 Phantom", "price": "160", "img": "https://assets.solesense.com/en/images/products/500/new-balance-1906-grey-yellow-m1906na_1.jpg", "size": "45"}
           ]
         }
       ]
@@ -184,25 +184,25 @@
         {
           "model": "350",
           "products": [
-            {"name": "yeezy 350 zebra", "price": "", "img": "", "size": ""},
-            {"name": "yeezy 350 pirate black", "price": "", "img": "", "size": ""},
-            {"name": "yeezy 350 granite", "price": "", "img": "", "size": ""}
+            {"name": "yeezy 350 zebra", "price": "350", "img": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Blue-Tint-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1703859855&q=60", "size": "45"},
+            {"name": "yeezy 350 pirate black", "price": "420", "img": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-Pirate-Black-2022-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1686229334", "size": "45"},
+            {"name": "yeezy 350 granite", "price": "320", "img": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Granite-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1687872302", "size": "45"}
           ]
         },
         {
           "model": "700",
           "products": [
-            {"name": "yeezy 700 Geode", "price": "", "img": "", "size": ""},
-            {"name": "yeezy 700 copper fade", "price": "", "img": "", "size": ""},
-            {"name": "yeezy 700 wave runner", "price": "", "img": "", "size": ""}
+            {"name": "yeezy 700 Geode", "price": "320", "img": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Geode/Images/adidas-Yeezy-Boost-700-V2-Geode/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1635260075&h=320&q=60", "size": "45"},
+            {"name": "yeezy 700 copper fade", "price": "290", "img": "https://images.stockx.com/360/adidas-Yeezy-700-V3-Copper-Fade/Images/adidas-Yeezy-700-V3-Copper-Fade/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1645715931&h=320&q=60", "size": "45"},
+            {"name": "yeezy 700 wave runner", "price": "650", "img": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?fm=webp&auto=compress&w=480&dpr=2&updated_at=1635255057&h=320&q=60", "size": "45"}
           ]
         },
         {
           "model": "slide",
           "products": [
-            {"name": "yeezy slide azure", "price": "", "img": "", "size": ""},
-            {"name": "yeezy slide pure", "price": "", "img": "", "size": ""},
-            {"name": "yeezy slide slate grey", "price": "", "img": "", "size": ""}
+            {"name": "yeezy slide azure", "price": "130", "img": "https://images.stockx.com/images/adidas-Yeezy-Slide-Azure-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1671115369", "size": "45"},
+            {"name": "yeezy slide pure", "price": "150", "img": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1642073908", "size": "45"},
+            {"name": "yeezy slide slate grey", "price": "110", "img": "https://i.ebayimg.com/images/g/D~0AAOSwakVk38fk/s-l1200.jpg", "size": "45"}
           ]
         }
       ]
