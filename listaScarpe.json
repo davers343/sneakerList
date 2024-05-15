@@ -10,15 +10,15 @@
               "type": "high",
               "products": [
                 {"name": "nike dunk high panda", "price": "95", "img": "https://snkrszoo.com/cdn/shop/products/dunk-high-panda-2021-106086_2000x_png_4a3934c5-de7a-4009-b680-4df6e9df4549.png?v=1656169933&width=1946", "size": "43"},
-                {"name": "nike dunk high marrone barocco", "price": "107", "img": "https://i.ebayimg.com/images/g/2NkAAOSwZJhgHJFA/s-l1200.jpg", "size": "41"},
+                {"name": "nike dunk high marrone barocco", "price": "107", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://cdn.filestackcontent.com/Vk1z1xfzSp2R04hY47sg", "size": "41"},
                 {"name": "nike dunk high nero lino", "price": "102", "img": "https://lh6.googleusercontent.com/proxy/EuuBlrzRsTNvzCoYb9_7xpUfKk3sSA-1yVNk87rE8hT1DhEFUupr4R-xN8n25Y-_XyolqmgkzPub1MUmSYU7TDwKY5TYHhYUjEEKHWhwXuepm-UJNNOQ_gK6Wv4F36Bq-BpN-LzZ-i8h_ucFkjuevAXFriTg", "size": "40.5"}
               ]
             },
             {
               "type": "low",
               "products": [
-               {"name": "nike dunk low panda", "price": "95", "img": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-2021/Images/Nike-Dunk-Low-Retro-White-Black-2021/Lv2/img05.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1644250003&h=384&q=57", "size": "43"},
-                {"name": "nike dunk low veneer", "price": "130", "img": "https://img.hypeboost.com/products/nike-dunk-low-veneer-2020/w900/img02.jpg", "size": "44"},
+               {"name": "nike dunk low panda", "price": "95", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/d211eede-2ce2-4052-9d5e-f88dd00f812b..jpg", "size": "43"},
+                {"name": "nike dunk low veneer", "price": "130", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://cdn.filestackcontent.com/R3qimC8VT0m3GmIt8cdv", "size": "44"},
                 {"name": "nike dunk low grigio nebbia", "price": "120", "img": "https://lh5.googleusercontent.com/proxy/y9Tne-IPrmxHwg7a_bbD1Gx3M-UZ44ja3zkFGGa-iOCgHgcPFLeAM7XetoBwu3ZWPgkoRc8YQMMtokm1PiQvVHB9RwbRoJIFpTGbL4yWh10IrxKza22JdgIgyz93fHk", "size": "40"}
               ]
             },
@@ -91,7 +91,7 @@
           "products": [
             {"name": "Adidas campus white and grey", "price": "170", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/ba4adc45-9c6e-4970-82ce-df0d734a0605..png", "size": "44"},
             {"name": "Adidas campus light bad bunny", "price": "250", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/9402140f-9e70-4629-ae0f-65b8095b66cf..png", "size": "45"},
-            {"name": "Adidas campus leopardo", "price": "170", "img": "https://static.flexdog.it/flexdog-a/products/images/ed14c24e-5750-4fdf-ba1b-c60884091397.png", "size": "43"}
+            {"name": "Adidas campus leopardo", "price": "170", "img": "https://process.filestackapi.com/AazSisOjUQx2TZJQX0PdNz/resize=height:614,width:900,fit:crop/output=compress:true,quality:60,strip:true/auto_image/cache=expiry:31536000/https://storage.googleapis.com/kt-apiv2-default/0f993875-e4a0-4f5c-8aa5-c0819bc48d55..jpg", "size": "43"}
           ]
         },
         {
