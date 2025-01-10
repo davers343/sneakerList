@@ -157,23 +157,23 @@
         {
           "model": "550",
           "products": [
-            {"name": "BOMBER RHUDE X AUTOMOBILI LAMBORGHINI", "price": "1994,40", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16477CCB000_01.jpg", "size": "45"},
-            {"name": "T-shirt a maniche lunghe da donna - DESCENTE X AUTOMOBILI LAMBORGHINI", "price": "159,60", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16387CCG116_01.jpg", "size": "45"},
-            {"name": "new balance 550 white red", "price": "190", "img": "https://images.stockx.com/images/New-Balance-550-White-Red-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1630617711", "size": "45"}
+            {"name": "BOMBER RHUDE X AUTOMOBILI LAMBORGHINI", "price": "1994,40", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16477CCB000_01.jpg", "size": "L"},
+            {"name": "T-shirt a maniche lunghe da donna - DESCENTE X AUTOMOBILI LAMBORGHINI", "price": "159,60", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16387CCG116_01.jpg", "size": "S"},
+            {"name": "T-SHIRT AUTOMOBILI LAMBORGHINI ICONIC LOGOSCRYPT", "price": "60,35", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16493CCU241_01.jpg", "size": "M"}
           ]
         },
         {
           "model": "2002",
           "products": [
-            {"name": "new balance 2002R Sea salt", "price": "340", "img": "https://images.stockx.com/images/New-Balance-M2002-Protection-Pack-Sea-Sault-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1649690006", "size": "45"},
-            {"name": "new balance 2002R pink", "price": "490", "img": "https://images.stockx.com/images/New-Balance-2002R-Protection-Pack-Pink-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1659420943", "size": "45"}
+            {"name": "POLO TRAVEL AUTOMOBILI LAMBORGHINI SQUADRA CORSE - BIANCO", "price": "57,60", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/6/16352LOW000_01.jpg", "size": "45"},
+            {"name": "Polo Donna Automobili Lamborghini Squadra Corse", "price": "60,60", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/9/0/9013943CCB000_01.jpg", "size": "45"}
           ]
         },
         {
           "model": "1906",
           "products": [
-            {"name": "new balance 1906 Metallic Blue", "price": "190", "img": "https://storage.googleapis.com/hypeclothinga-media/__sized__/products/New_Balance_1906R_Silver_Metallic_Blue1906RCD_Hype_Clothinga_Limited_Edition.004-thumbnail-1200x630-70.jpeg", "size": "45"},
-            {"name": "new balance 1906 Phantom", "price": "160", "img": "https://assets.solesense.com/en/images/products/500/new-balance-1906-grey-yellow-m1906na_1.jpg", "size": "45"}
+            {"name": "Clutch in pelle", "price": "280", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/1/5/15846LLB000000_01.jpg", "size": "45"},
+            {"name": "Compact hard shell trolley", "price": "154", "img": "https://static.lamborghinistore.com/rx/1250x,ofmt_webp/media/catalog/product/9/0/9013987PPE000000XX_01.jpg", "size": "45"}
           ]
         }
       ]
